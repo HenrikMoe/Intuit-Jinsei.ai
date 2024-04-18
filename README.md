@@ -1,6 +1,6 @@
 # Intuit-Jinsei.ai
 
-Spreadsheet data mapping and chat services powered by Jinsei.ai.
+Spreadsheet data mapping and chat services from Jinsei.ai.
 
 Solutions powered by Jax Tensorflow and GPT/Grok. 
 

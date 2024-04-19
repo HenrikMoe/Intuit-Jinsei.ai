@@ -1,5 +1,7 @@
 # Intuit-Jinsei.ai
 
+https://jinsei.ai/intuit
+
 Spreadsheet data mapping and chat services from Jinsei.ai.
 
 Solutions powered by Jax Tensorflow and GPT/Grok. 

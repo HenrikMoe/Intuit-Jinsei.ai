@@ -8,7 +8,7 @@ Solutions powered by Jax Tensorflow and GPT/Grok.
 
 ## Intuit Problem:
 
-Automating data transformations for every accounting statement, extended GPT interface, and on-chain trade gains audit. 
+Automating data transformations for every accounting statement, extended GPT interface, and on-chain trade gains audits. 
 
 # Intuit Jinsei.ai Solutions 
 

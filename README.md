@@ -2,7 +2,7 @@
 
 https://jinsei.ai/intuit
 
-Spreadsheet data mapping and chat services from Jinsei.ai.
+Spreadsheet data mapping automation and turbocharged GPT/Grok extension SaaS.
 
 Solutions powered by Jax Tensorflow and GPT/Grok. 
 
